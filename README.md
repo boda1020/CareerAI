@@ -1,4 +1,4 @@
-````markdown
+
 # CareerAI — AI-Powered Career Development & Job Readiness Platform
 
 > **CareerAI** is an AI-powered mobile platform designed to help university students, fresh graduates, junior developers, and entry-level job seekers understand their current career level, identify skill gaps, build personalized learning roadmaps, improve their CVs, practice AI-powered interviews, track their progress, and communicate with a personal AI Career Coach.
